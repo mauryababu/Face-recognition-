@@ -14,3 +14,4 @@ Real-time face recognition is a computer vision application that identifies and 
 
 
 
+![Screenshot (53)](https://github.com/mauryababu/Face-recognition-/assets/132991300/0016e022-971e-48be-b350-9feda679cd34)
